@@ -1,1 +1,1 @@
-# OS-assignments
+OS course lab assignemnts
